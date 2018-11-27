@@ -7,3 +7,5 @@ int main(){										// definiranje glavnog funkcije
 	cout << endl << endl;
 	return 0;									// povratak sustavu informacije o uspjesnom izvrsenju programa
 }
+
+//komentar bez razloga, samo za novi branch
